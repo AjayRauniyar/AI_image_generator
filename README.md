@@ -1,6 +1,6 @@
 # ai_image_generator
 
-A new Flutter project.
+A new Flutter project with midjourney and Api key from the imagine.ai 
 
 
 ![Screenshot 2024-03-06 153011](https://github.com/AjayRauniyar/AI_image_generator/assets/94477692/2aedb0a7-7238-4705-8ec6-df84989e4dc6)
